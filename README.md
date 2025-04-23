@@ -24,10 +24,10 @@ This project investigates how ESG (Environmental, Social, and Governance) scores
   
 ### 5. Data Visualization
 - Designed an interactive Power BI dashboard to showcase:
-                 o  High ESG score sectors (e.g., Healthcare, Tech)
-                 o  Best performing industries by return and risk
-                 o  ESG–Return–Risk correlations across companies and Filterable views by industry for 
-                     executive summaries
+    - High ESG score sectors (e.g., Healthcare, Tech)
+    - Best performing industries by return and risk
+    - ESG–Return–Risk correlations across companies and Filterable views by industry for 
+      executive summaries
 
 ## Technologies Used
 
