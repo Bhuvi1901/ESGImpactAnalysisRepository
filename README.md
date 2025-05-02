@@ -23,7 +23,7 @@ This project investigates how ESG (Environmental, Social, and Governance) scores
 - Coefficients were interpreted to understand the magnitude and direction of ESG influence on financial outcomes.
   
 ### 5. Data Visualization
-- Designed an interactive Power BI dashboard to showcase:
+- Designed an interactive [Power BI dashboard](https://github.com/user-attachments/assets/17fbee0e-5de5-4549-9cc3-83b3af2c16e4) to showcase:
     - High ESG score sectors (e.g., Healthcare, Tech)
     - Best performing industries by return and risk
     - ESG–Return–Risk correlations across companies and Filterable views by industry for 
@@ -45,6 +45,9 @@ This project investigates how ESG (Environmental, Social, and Governance) scores
 
 - The final model achieved 76% overall accuracy.
 - It performed especially well for retained customers with 91% precision, and identified churners with 65% recall, offering a useful foundation for retention strategies.
+  
+  ![image](https://github.com/user-attachments/assets/17fbee0e-5de5-4549-9cc3-83b3af2c16e4)
+
 
 ## How to Use
 
