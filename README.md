@@ -43,8 +43,8 @@ This project investigates how ESG (Environmental, Social, and Governance) scores
 
 ## Output
 
-- The final model achieved 76% overall accuracy.
-- It performed especially well for retained customers with 91% precision, and identified churners with 65% recall, offering a useful foundation for retention strategies.
+-The linear regression analysis between ESG Score and Risk Score yielded a very low coefficient of determination (R² = 0.00017), indicating almost no explanatory power of ESG Score over Risk Score.
+- Despite the slight negative slope, the relationship is statistically insignificant, suggesting ESG factors have minimal direct linear impact on the assessed risk in this dataset.
   
   ![image](https://github.com/user-attachments/assets/17fbee0e-5de5-4549-9cc3-83b3af2c16e4)
 
